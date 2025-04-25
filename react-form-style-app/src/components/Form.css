@@ -1,0 +1,39 @@
+.form-container{
+    width: 350px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #f3f3f3;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(0,0,0,0.1);
+    text-align: center;
+}
+
+.form-container h2{
+    display: block;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #aaa;
+}
+
+.form-container button{
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.form-container button:hover{
+    background-color: #0056b3;
+}
+
+.form-container input{
+    display: block;
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
