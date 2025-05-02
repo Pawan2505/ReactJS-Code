@@ -357,8 +357,4 @@ const AllFilterOperation = () => {
 export default AllFilterOperation;
 ```
 
-Aap chahein toh isme search input ke aage “clear” button bhi laga sakte hain for better UX.
 
----
-
-Kya aapko ek visual UI wireframe bhi chahiye is layout ka?
